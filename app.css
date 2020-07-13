@@ -1,4 +1,4 @@
-/* :root {
+:root {
     --gradient: linear-gradient(30deg, rgb(0, 132, 255), rgb(124, 224, 255));
     --background-color: rgb(236, 236, 236);
 }
@@ -144,4 +144,4 @@ body {
     left: 45px;
     background: none;
     border: 0.5
-} */
+}
