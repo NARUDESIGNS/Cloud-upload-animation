@@ -19,10 +19,10 @@ function animate() {
         }
     }, 600);
     setTimeout(() => {
-        message.innerText = "Done";
+        message.innerText = "DONE";
         message.classList.add("fade-in");
         cloudsContainer.classList.add("fade-out");
-    }, 5000);
+    }, 5500);
 }
 
 uploadBtn.addEventListener("click", animate);
